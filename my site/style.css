@@ -1,3 +1,7 @@
+
+
+
+
 @font-face {
 	font-family: 'et-line';
 	src:url('fonts/et-line.eot');
@@ -340,4 +344,9 @@ you can use the generic selector below, but it's slower:
 }
 .icon-dribbble:before {
 	content: "\e063";
+}
+
+
+.ai{
+	content: "my icons\artificial-intelligence (2).png";
 }
